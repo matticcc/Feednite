@@ -12,7 +12,7 @@ const siteRoot = 'https://www.epicgames.com/fortnite'
 const postsEndpoint = '/api/blog/getPosts'
 
 const defaultLimit = 25
-const defaultLocale = 'en'
+const defaultLocale = 'it'
 const defaultDetails = true
 
 // Fetch news articles from Fortnite's news API
